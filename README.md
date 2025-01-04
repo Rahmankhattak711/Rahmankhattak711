@@ -1,3 +1,16 @@
+<div class="card">
+  <div class="image" style="width: 100%; height: 200px; overflow: hidden;">
+    <img src="https://plus.unsplash.com/premium_photo-1661414423895-5854eb6b573a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGphdmFzY3JpcHR8ZW58MHx8MHx8fDA%3D" 
+         alt="Coding Themed Image" 
+         style="width: 100%; height: 300px; object-fit: cover; display: block;">
+  </div>
+</div>
+
+
+ 
+ 
+ 
+ 
  <h1>🚀 MERN Stack Developer | 🎨 Animation Enthusiast | 🛠️ Problem Solver</h1>
   <p>Welcome to my GitHub! 👋 I'm a passionate <strong>MERN Stack Developer</strong> dedicated to building seamless, scalable, and user-friendly web applications. My expertise spans across <strong>MongoDB, Express.js, React.js, and Node.js</strong>, enabling me to turn ideas into reality.</p>
 
@@ -22,7 +35,7 @@
     <li>🌐 <strong>Languages:</strong> JavaScript (ES6+), TypeScript</li>
     <li>🔧 <strong>Libraries & Frameworks:</strong> React.js, Next.js, Express.js, Framer Motion, GSAP</li>
     <li>💾 <strong>Databases:</strong> MongoDB, Firebase</li>
-    <li>🛠️ <strong>Tools:</strong> Git, Docker, Postman</li>
+    <li>🛠️ <strong>Tools:</strong> Git, Postman</li>
   </ul>
 
   <h2>💬 Let's Connect:</h2>
