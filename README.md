@@ -1,29 +1,35 @@
- <h1>🚀 MERN Stack Developer | 🎨 Animation Enthusiast | 🛠️ Problem Solver</h1>
-  <p>Welcome to my GitHub! 👋 I'm a passionate <strong>MERN Stack Developer</strong> dedicated to building seamless, scalable, and user-friendly web applications. My expertise spans across <strong>MongoDB, Express.js, React.js, and Node.js</strong>, enabling me to turn ideas into reality.</p>
+# 🚀 MERN Stack Developer | 🎨 Motion UI Enthusiast | 🧩 Problem-Solver 
 
-  <h2>🌟 What I Do:</h2>
-  <ul>
-    <li>💻 <strong>Frontend Development:</strong> Crafting intuitive, responsive, and visually stunning user interfaces with React.js, enhanced by modern libraries like <strong>Redux</strong>, <strong>Tailwind CSS</strong>, and <strong>Material-UI</strong>.</li>
-    <li>⚙️ <strong>Backend Development:</strong> Designing robust APIs and server-side solutions with <strong>Node.js</strong> and <strong>Express.js</strong>, ensuring high performance and security.</li>
-    <li>📂 <strong>Database Management:</strong> Implementing efficient and scalable data storage solutions with <strong>MongoDB</strong>.</li>
-    <li>🔄 <strong>Full-Stack Applications:</strong> Bridging the gap between frontend and backend to deliver end-to-end solutions.</li>
-    <li>✨ <strong>Animation Magic:</strong> Bringing interfaces to life with smooth and engaging animations using <strong>Framer Motion</strong> and <strong>GSAP</strong>.</li>
-  </ul>
+Hi there! 👋 I’m **Rahman Ullah**, a passionate **Full-Stack Developer** who loves creating modern, responsive, and scalable web applications. I specialize in the **MERN stack** and enjoy turning ideas into smooth, interactive digital products with clean code and great UI/UX.
 
-  <h2>🚧 My Values:</h2>
-  <ul>
-    <li>🧩 <strong>Problem-Solving:</strong> Every project is an opportunity to create innovative solutions.</li>
-    <li>📚 <strong>Continuous Learning:</strong> Staying updated with the latest in tech to deliver cutting-edge results.</li>
-    <li>🤝 <strong>Collaboration:</strong> Open to teamwork and contributing to exciting open-source projects.</li>
-  </ul>
+---
 
-  <h2>🛠️ Technologies I Love:</h2>
-  <ul>
-    <li>🌐 <strong>Languages:</strong> JavaScript (ES6+), TypeScript</li>
-    <li>🔧 <strong>Libraries & Frameworks:</strong> React.js, Next.js, Express.js, Framer Motion, GSAP</li>
-    <li>💾 <strong>Databases:</strong> MongoDB, Firebase</li>
-    <li>🛠️ <strong>Tools:</strong> Git, Postman</li>
-  </ul>
+## 🌟 What I Do
+
+- 💻 **Frontend Development:** Responsive and dynamic interfaces using **React.js**, **Tailwind CSS**, **Material UI**, and **Redux**.
+- ⚙️ **Backend Development:** Secure and efficient APIs with **Node.js** and **Express.js**.
+- 📂 **Database Management:** Working with **MongoDB**, **Firebase**, and **PostgreSQL** for scalable data handling.
+- 🔄 **Full-Stack Integration:** Developing complete solutions from UI to database.
+- ✨ **Animations:** Engaging UIs using **Framer Motion** and **GSAP**.
+
+---
+
+## 🧠 Core Values
+
+- 🧩 **Problem Solving:** I approach every challenge with creativity and logic.
+- 📚 **Continuous Learning:** Always up-to-date with the latest tools and trends.
+- 🤝 **Team Collaboration:** Open to collaboration, feedback, and open-source contributions.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🌐 **Languages:** JavaScript (ES6+), TypeScript  
+- ⚙️ **Frameworks & Libraries:** React.js, Next.js, Express.js, Redux, Framer Motion, GSAP  
+- 🧾 **Databases:** MongoDB, PostgreSQL, Firebase  
+- 🧪 **Tools:** Git, GitHub, Postman, Vercel, Netlify, VS Code  
+
+---
 
   <h2>💬 Let's Connect:</h2>
   <p>
@@ -40,3 +46,27 @@
   <p>
    rahmankhattak796@gmail.com
   </p>
+
+
+  ## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmankhattak711&theme=github_dark" width="95%" />
+</p>
+
+---
+
+### 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmankhattak711&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
+</p>
+
+---
+
+### 📌 Contributions & Commits
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmankhattak711&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="90%" />
+</p>
+
