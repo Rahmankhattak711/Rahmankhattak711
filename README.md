@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 - 🌍 Based in Abbottabad, Pakistan
 - 💼 Full-Stack Developer at **KINGs**
-- 💻 **Languages/Frameworks:** JavaScript (React, Node.js), Python (Django, FastAPI), TypeScript
+- 💻 **Languages/Frameworks:** JavaScript (React, Node.js), TypeScript
 - 🛠️ Always exploring new technologies and best practices
 - 📫 Let's connect and create something amazing together!
 
@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 
 ---
 
@@ -33,8 +30,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ### 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahman-khattak/)
-- 🌐 [Portfolio Website](#)
-- 📧 Email: your.email@example.com
+- 📧 Email: rahmankhattak796@gmail.com
 
 ---
 
