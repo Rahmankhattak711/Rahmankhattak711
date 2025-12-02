@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
-### 📈 GitHub Stats
+### 🗂️ GitHub Contribution Graph
 
-![Rahman Khattak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahmankhattak711&show_icons=true&theme=radical)
+[![Rahman Khattak's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rahmankhattak711&theme=radical)](https://github.com/Rahmankhattak711)
 
 ---
 
