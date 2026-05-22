@@ -91,10 +91,6 @@
   <a href="https://www.linkedin.com/in/rahman-khattak/">
     <img src="https://img.shields.io/badge/LinkedIn-Rahman%20Khattak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/Rahmankhattak711">
-    <img src="https://img.shields.io/badge/GitHub-Rahmankhattak711-181717?style=for-the-badge&logo=github" />
-  </a>
 
   <a href="https://portfolio-website-rahmankhattak.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" />
