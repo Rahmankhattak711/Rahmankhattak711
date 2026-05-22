@@ -71,6 +71,16 @@
 
 ---
 
+## 💡 Quick Facts
+
+- 🎓 Self-taught developer with a passion for continuous learning
+- 🌟 25+ projects across various domains
+- 💪 Strong foundation in **TypeScript, React, and Node.js**
+- 🤝 Open to **collaborations** and **contributions**
+- 🎨 Love creating **beautiful & functional** user interfaces
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -90,13 +100,3 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
 </p>
-
----
-
-## 💡 Quick Facts
-
-- 🎓 Self-taught developer with a passion for continuous learning
-- 🌟 25+ projects across various domains
-- 💪 Strong foundation in **TypeScript, React, and Node.js**
-- 🤝 Open to **collaborations** and **contributions**
-- 🎨 Love creating **beautiful & functional** user interfaces
