@@ -48,21 +48,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[agentic-ai-dev-kit](https://github.com/Rahmankhattak711/agentic-ai-dev-kit)** | JavaScript, AI | Development toolkit for agentic AI applications |
-| **[notes-web-app](https://github.com/Rahmankhattak711/notes-web-app-frontend)** | React, Node.js, MongoDB | Full-stack notes application with real-time sync |
-| **[portfolio-website](https://github.com/Rahmankhattak711/portfolio-website)** | Next.js, TypeScript, Tailwind | Modern animated portfolio showcase |
-| **[trpc-monorepo](https://github.com/Rahmankhattak711/trpc-monorepo)** | tRPC, TypeScript, Monorepo | Type-safe API communication architecture |
-| **[component-ui-library](https://github.com/Rahmankhattak711/component-ui-library)** | React, TypeScript | Reusable UI component library |
-| **[socially](https://github.com/Rahmankhattak711/socially)** | TypeScript | Social networking platform |
-| **[yt-video-to-audio](https://github.com/Rahmankhattak711/yt-video-to-audio)** | NestJS, React, TypeScript | YouTube video to audio converter |
-| **[qr-code-generator](https://github.com/Rahmankhattak711/qr-code-generator)** | TypeScript | QR code generation tool |
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
