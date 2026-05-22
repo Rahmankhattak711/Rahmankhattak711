@@ -1,70 +1,127 @@
 # 👋 Hi, I'm Rahman Khattak
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Next.js+Developer;Node.js+%7C+NestJS+Backend+Developer;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+NestJS+%7C+tRPC;Building+Scalable+Web+Apps" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rahmankhattak711"><img src="https://img.shields.io/github/followers/Rahmankhattak711?label=Followers&style=social" /></a>
+  <a href="https://github.com/Rahmankhattak711?tab=repositories"><img src="https://img.shields.io/github/repos/Rahmankhattak711?style=social" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 Passionate **Full-Stack Web Developer** who loves building scalable web applications and clean user interfaces.
+🚀 **Full-Stack Web Developer** passionate about building scalable, modern web applications with clean, maintainable code.
 
-* 💻 Full Stack Developer (**Frontend + Backend**)
-* ⚡ Building **APIs, Web Apps, and Modern UI**
-* 🧠 Constantly learning new **frameworks & technologies**
-* 🌍 Love solving real-world problems with code
-
----
-
-# 🛠️ Tech Stack
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
+- 💻 **Full Stack Development** (Frontend + Backend)
+- ⚡ Specialized in **React, Next.js, TypeScript & Node.js**
+- 🏗️ Building **APIs, Web Apps, UI Libraries & Tools**
+- 📚 Always learning **new frameworks & best practices**
+- 🌍 Solving **real-world problems** with elegant code
+- 🎯 Focus on **performance, scalability & UX**
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,figma" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
+</p>
+
+### 🗄️ Databases & ORMs
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify,gcp" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[agentic-ai-dev-kit](https://github.com/Rahmankhattak711/agentic-ai-dev-kit)** | JavaScript, AI | Development toolkit for agentic AI applications |
+| **[notes-web-app](https://github.com/Rahmankhattak711/notes-web-app-frontend)** | React, Node.js, MongoDB | Full-stack notes application with real-time sync |
+| **[portfolio-website](https://github.com/Rahmankhattak711/portfolio-website)** | Next.js, TypeScript, Tailwind | Modern animated portfolio showcase |
+| **[trpc-monorepo](https://github.com/Rahmankhattak711/trpc-monorepo)** | tRPC, TypeScript, Monorepo | Type-safe API communication architecture |
+| **[component-ui-library](https://github.com/Rahmankhattak711/component-ui-library)** | React, TypeScript | Reusable UI component library |
+| **[socially](https://github.com/Rahmankhattak711/socially)** | TypeScript | Social networking platform |
+| **[yt-video-to-audio](https://github.com/Rahmankhattak711/yt-video-to-audio)** | NestJS, React, TypeScript | YouTube video to audio converter |
+| **[qr-code-generator](https://github.com/Rahmankhattak711/qr-code-generator)** | TypeScript | QR code generation tool |
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmankhattak711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahmankhattak711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmankhattak711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmankhattak711&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rahmankhattak711&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 What I'm Currently Working On
+
+- 🔧 Building scalable backend systems with **tRPC & TypeScript**
+- 📱 Developing modern **Next.js applications**
+- 🤖 Exploring **AI/ML integration** in web applications
+- 📚 Sharing knowledge through **open-source projects**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:rahmankhattak796@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rahmankhattak796@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rahman-khattak/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahman%20Khattak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Rahmankhattak711">
+    <img src="https://img.shields.io/badge/GitHub-Rahmankhattak711-181717?style=for-the-badge&logo=github" />
+  </a>
 
-<a href="mailto:rahmankhattak796@gmail.com">
-<img src="https://img.shields.io/badge/Email-rahmankhattak796@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://portfolio-website-rahmankhattak.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/rahman-khattak/">
-<img src="https://img.shields.io/badge/LinkedIn-Rahman_Khattak-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
+## 💡 Quick Facts
+
+- 🎓 Self-taught developer with a passion for continuous learning
+- 🌟 25+ projects across various domains
+- 💪 Strong foundation in **TypeScript, React, and Node.js**
+- 🤝 Open to **collaborations** and **contributions**
+- 🎨 Love creating **beautiful & functional** user interfaces
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahmankhattak711&color=36BCF7&style=flat-square" />
+</p>
+
+<p align="center">
+  ⭐ Feel free to fork my repos or reach out for collaborations! ⭐
 </p>
