@@ -1,0 +1,60 @@
+name: Premium Metrics Engine
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Dashboard Layout
+        uses: lowlighter/metrics@latest
+        with:
+          # Token and Core Credentials
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          user: Rahmankhattak711
+          config_timezone: Asia/Karachi
+
+          # Template & Theme Stylesheet Configuration
+          template: classic
+          theme: tokyonight
+          palette: prussian
+
+          # 1. Left Column: Account Metadata & Repository Headers
+          base: header, activity, community, repositories, metadata
+
+          # 2. Left Column: Coding Habits & Punch Cards
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+
+          # 3. Bottom Left: Mastered Technologies & Topics Stack Matrix
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 24
+
+          # 4. Right Column: Live Portfolio PageSpeed Performance Insights
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://portfolio-website-rahmankhattak.vercel.app
+          plugin_pagespeed_detailed: no
+
+          # 5. Right Column: 3D Isometric Contributions Calendar Grid
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 6. Bottom Right: Language Distribution Matrices
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+
+          # 7. Bottom Right: Project Trackers, Roadmaps & Milestones
+          plugin_projects: yes
+          plugin_projects_limit: 4
