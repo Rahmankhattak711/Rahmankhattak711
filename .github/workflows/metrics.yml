@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs automatically every day
-  workflow_dispatch: # Allows you to run it manually anytime
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -10,32 +10,43 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # Ensure this secret is added in repo settings
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          # Core Layout Design
+          # Options & Premium Layout Styling
           filename: github-metrics.svg
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
+          config_order: base.header, isocalendar, languages, lines, habits, followup, base.repositories
 
-          # 📊 PageSpeed Insights Block
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://portfolio-website-rahmankhattak.vercel.app
-          plugin_pagespeed_detailed: no
+          # Custom Pro Typography & Frame Sizing
+          config_padding: 6%
+          font_font: "JetBrains Mono, Fira Code, Segoe UI, sans-serif"
 
-          # 📅 Isometric Contributions Calendar
+          # 📅 Beautiful 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 💡 Coding Habits Charts
+          # 💻 Deep Language Metrics Matrix
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, mdx
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes # Computes language analytics across all commits
+          plugin_languages_limit: 8
+
+          # 🧮 Granular Code Metrics & Lines of Code Changed
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          # 📊 Repository Milestones & Push Followup Trends
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+          # 💡 Advanced Coding Habits & Efficiency Tracking
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
-          plugin_habits_facts: yes
+          plugin_habits_facts: yes # Enables specific textual analytics insights about your habits
           plugin_habits_charts: yes
-
-          # 💻 Most Used Languages Block
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_habits_trim: yes
