@@ -1,35 +1,25 @@
 <div align="center">
-  <img src="./banner.png" alt="Rahman Khattak Banner" width="100%" />
-</div>
 
-<br>
+<img src="./banner.png" alt="Rahman Khattak Banner" width="100%" />
 
-<h1 align="center">
- 👋 Hi, I'm Rahman Khattak
-</h1>
+# 👋 Hi, I'm Rahman Khattak
 
-<p align="center">
-  Full Stack Developer
-</p>
+### Full Stack Developer
 
----
+I build scalable, high-performance web applications with a focus on clean architecture, exceptional user experiences, and modern cloud-native technologies. My work spans frontend and backend development, where I combine React and Next.js interfaces with TypeScript-driven APIs powered by NestJS and Node.js. I design systems that prioritize maintainability, security, and efficient data flow, using PostgreSQL for structured storage and Docker for repeatable deployment. I also invest in automation, testing, and continuous delivery so that every project stays reliable and agile in production.
 
-<p align="center">
-I am a passionate software engineer focused on building fast, maintainable, and scalable web applications, with strong experience in Next.js, React, TypeScript, NestJS, and modern cloud-native tooling; I enjoy solving complex problems, turning ideas into polished digital products, and creating developer-friendly systems that prioritize reliability, performance, and clean architecture.
-</p>
-
----
-
-## Connect with Me
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,nestjs,express,postgres,mysql,mongodb,prisma,docker,git,github,linux,tailwind,vscode&perline=9" />
 
 <p>
-  <a href="mailto:rahmankhattak796@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:rahmankhattak796@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Rahmankhattak711" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Rahmankhattak711">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/rahmankhattak711" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/rahmankhattak711">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+</div>
