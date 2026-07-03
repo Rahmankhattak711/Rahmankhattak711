@@ -1,9 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (Optional) Run workflow manually
-  workflow_dispatch:
+  schedule: [{cron: "0 0 * * *"}] # Runs automatically every day
+  workflow_dispatch: # Allows you to run it manually anytime
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,36 +10,31 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your secret token configured in Step 1
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }} # Ensure this secret is added in repo settings
 
-          # Options & Layout
+          # Core Layout Design
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
 
-          # 📊 PageSpeed Insights Plugin
+          # 📊 PageSpeed Insights Block
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://portfolio-website-rahmankhattak.vercel.app # Replace with your live portfolio url
+          plugin_pagespeed_url: https://portfolio-website-rahmankhattak.vercel.app
           plugin_pagespeed_detailed: no
 
           # 📅 Isometric Contributions Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 💡 Coding Habits and Recent Activity
+          # 💡 Coding Habits Charts
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # 🎵 Music Suggestions (Optional - set up if you use Apple Music/Spotify)
-          plugin_music: no 
-          plugin_music_provider: apple # Or spotify
-
-          # 💻 Most Used Languages
+          # 💻 Most Used Languages Block
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
