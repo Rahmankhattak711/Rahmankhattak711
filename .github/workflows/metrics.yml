@@ -1,10 +1,9 @@
 name: Metrics
 on:
-  # Schedule updates once a day
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # (Optional) Run workflow manually
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,30 +12,37 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # Your secret token configured in Step 1
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          user: Rahmankhattak711
+          # Options & Layout
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
-          
-          # Plugins to match the layout in the image
+
+          # 📊 PageSpeed Insights Plugin
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://portfolio-website-rahmankhattak.vercel.app # Replace with your live portfolio url
+          plugin_pagespeed_detailed: no
+
+          # 📅 Isometric Contributions Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # 💡 Coding Habits and Recent Activity
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # 🎵 Music Suggestions (Optional - set up if you use Apple Music/Spotify)
+          plugin_music: no 
+          plugin_music_provider: apple # Or spotify
+
+          # 💻 Most Used Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: portfolio-website-rahmankhattak.vercel.app
-          
-          # For your tech stack icons grid
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: icons
-          plugin_topics_limit: 20
