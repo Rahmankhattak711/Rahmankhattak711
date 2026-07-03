@@ -21,8 +21,8 @@ jobs:
           # Layout & Readability
           config_timezone: Asia/Karachi
           config_padding: 10%
-          config_font_size: 14
-          font_type: sans
+          config_font_size: 10
+          font_type: poppins
           
           # Order of sections (simple & logical)
           config_order: base.header, isocalendar, languages, habits, lines, followup, base.repositories
